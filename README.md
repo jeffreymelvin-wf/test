@@ -10,4 +10,4 @@ pr test 2
 6
 7
 8
-pickle
+verify=false
