@@ -7,3 +7,4 @@ pr test 5
 pr test 6
 pickle
 cpickle
+verify=False
