@@ -6,3 +6,4 @@ pr test 3
 pickle
 cpickle
 verify=False
+pr test4
