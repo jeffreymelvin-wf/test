@@ -1,2 +1,3 @@
 test: !include test.yaml
 test2: !include test/test2.yaml
+test4: !include test/test2.yaml:hello
