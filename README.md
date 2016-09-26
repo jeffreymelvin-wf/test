@@ -7,4 +7,3 @@ pickle
 cpickle
 verify=False
 pr test 4
-verify=False
