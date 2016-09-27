@@ -1,3 +1,5 @@
 version: 1
-exclude:
-  - README.md
+
+raven_monitored_files:
+  test.py:
+    reason: testing
