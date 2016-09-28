@@ -3,4 +3,4 @@ version: 1
 raven_monitored_files:
   test.py:
     reason: testing
-    infosec_review_required: true
+    infosec_review_required: false
