@@ -4,3 +4,7 @@ raven_monitored_files:
   test.py:
     reason: testing
     infosec_review_required: true
+    
+test: !include test.yaml
+test2: !include test/test2.yaml
+test4: !include test/test2.yaml:hello
