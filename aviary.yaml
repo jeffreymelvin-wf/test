@@ -4,5 +4,3 @@ raven_monitored_files:
   test2.py:
     reason: testing
     infosec_review_required: true
-    
-test: !include github.com/jeffreymelvin-wf/test2/aviary.yaml:test
